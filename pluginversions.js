@@ -1,4 +1,4 @@
-{
+const pluginHistory = {
     0:   { name: "",                  date: "",           tec: "",          pro: "",          vev: "",         eva: "",         fib: "",         ebt: "",        eti: "",           etp: "",          cev: "",          ctx: "",         apm: "",       iwp: "",       woo: "",      edd: ""  },
     1:   { name: "M18.01",            date: "Jan 7",      tec: "4.6.9.1x",  pro: "4.4.21",    vev: "-",        eva: "-",        fib: "4.5.2",    ebt: "4.4.9",   eti: "4.6.3",      etp: "4.6.2",     cev: "4.5.8",     ctx: "4.5.3",    apm: "4.4",    iwp: "1.0.2",  woo: "-",     edd: "-" },
     2:   { name: "M18.02",            date: "Jan 22",     tec: "4.6.10.2x", pro: "4.4.22x",   vev: "-",        eva: "-",        fib: "4.5.3x",   ebt: "4.4.9",   eti: "4.6.3",      etp: "4.6.2",     cev: "4.5.8",     ctx: "4.5.3",    apm: "4.4",    iwp: "1.0.2",  woo: "-",     edd: "-" },
@@ -167,3 +167,6 @@
             165: { name: "B23.c3po",          date: "Mar 20",     tec: "6.0.11x",   pro: "6.0.10x",   vev: "1.13.6",   eva: "1.2.0",    fib: "5.4.4x",   ebt: "4.6.13",  eti: "5.5.9.1",    etp: "5.6.8",     cev: "4.10.5",    ctx: "4.9.0",    apm: "4.5.4",  iwp: "1.0.3",  woo: "7.5.0", edd: "3.1.1.2" },
     166: { name: "G23.daikon",        date: "Mar 20",     tec: "6.0.11",    pro: "6.0.10",    vev: "1.13.6",   eva: "1.2.0",    fib: "5.4.4",    ebt: "4.6.13",  eti: "5.5.10x",    etp: "5.6.9x",    cev: "4.10.6x",   ctx: "4.9.1x",   apm: "4.5.4",  iwp: "1.0.3",  woo: "7.5.0", edd: "3.1.1.2" },
 };
+
+// Export the pluginHistory object
+export default pluginHistory;
