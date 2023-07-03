@@ -1,4 +1,4 @@
-const pluginHistory = {
+{
     0:   { name: "",                  date: "",           tec: "",          pro: "",          vev: "",         eva: "",         fib: "",         ebt: "",        eti: "",           etp: "",          cev: "",          ctx: "",         apm: "",       iwp: "",       woo: "",      edd: ""  },
     1:   { name: "M18.01",            date: "Jan 7",      tec: "4.6.9.1x",  pro: "4.4.21",    vev: "-",        eva: "-",        fib: "4.5.2",    ebt: "4.4.9",   eti: "4.6.3",      etp: "4.6.2",     cev: "4.5.8",     ctx: "4.5.3",    apm: "4.4",    iwp: "1.0.2",  woo: "-",     edd: "-" },
     2:   { name: "M18.02",            date: "Jan 22",     tec: "4.6.10.2x", pro: "4.4.22x",   vev: "-",        eva: "-",        fib: "4.5.3x",   ebt: "4.4.9",   eti: "4.6.3",      etp: "4.6.2",     cev: "4.5.8",     ctx: "4.5.3",    apm: "4.4",    iwp: "1.0.2",  woo: "-",     edd: "-" },
